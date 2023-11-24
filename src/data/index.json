@@ -29,22 +29,22 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Chore Split ",
+      "description": "ChoreSplit is an fun Android app that automates chore splitting for a group. Users can be added to multiple roommate/family groups and can collectively complete and approve each others' chores. ",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Plasti Tag",
+      "description": "Plasti Tag is a plastic tracking app allowing user to scan bar-code for plastic products and record the kind of plastic they are using as well as for collecting data for further academic research. ",
+      "link": "View In Figma"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Image Processing",
+      "description": "An Image Processing Java CLI for Object Orient Design Class. Support multi image processing features. Importing the image via image acquisition tools; Analysing and manipulating the image; Output is an altered image.",
       "link": "View In Github"
     }
   ],
