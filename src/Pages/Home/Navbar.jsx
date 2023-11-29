@@ -89,7 +89,7 @@ function Navbar() {
               About Me
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               onClick={closeMenu}
               activeClass="navbar--active-content"
@@ -102,7 +102,7 @@ function Navbar() {
             >
               Testimonials
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
       <Link
