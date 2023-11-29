@@ -379,6 +379,7 @@ h2 {
   color: var(--heading-color);
 }
 .portfolio--link {
+  color: var(--heading-color);
   text-decoration: none;
   display: flex;
   gap: 16px;
@@ -389,6 +390,17 @@ h2 {
 .portfolio--section--card:hover path {
   stroke: #006b6a;
 }
+.title-and-type-container {
+  display: flex;
+  align-items: center;
+}
+.portfolio--section--type {
+  color:var(--primary);
+  margin-left: 10px; 
+  font-size: 16px; 
+  text-decoration: underline; 
+}
+
 /* Portfolio Ends */
 
 /* Testimonial */
@@ -671,6 +683,8 @@ input[type="checkbox"] {
     margin: 20px;
   }
 }
+
+
 
 /* Hamburger menu  */
 
