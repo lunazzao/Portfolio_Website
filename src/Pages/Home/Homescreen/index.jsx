@@ -1,10 +1,9 @@
 import AboutMe from "../AboutMe";
-import ContactMe from "../ContactMe";
+import EmailForm from "../EmailForm";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
 import MySkills from "../MySkills";
-import Testimonial from "../Testimonials";
 
 export default function Home() {
   return (
@@ -13,7 +12,7 @@ export default function Home() {
       <MySkills />
       <AboutMe />
       <MyPortfolio />
-      <ContactMe />
+      <EmailForm className="emailForm"/>
       <Footer />
     </>
   );

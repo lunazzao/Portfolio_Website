@@ -13,10 +13,10 @@ export default function AboutMe() {
             software engineer with an eye for design. I have several internships
             as full stack software engineer at Amazon Robotics and Arista
             Networks, as well as Web/UIUX at AIA. I pride myself on being more
-            than just a developer; my background in design, which played a
+            than a developer; my background in design and product management, which played a
             pivotal role during my time at AIA Group, is a testament to my
-            passion for creating <b>intuitive and user-friendly </b>
-            applications. Whether working on backend development or UI design, I
+            passion for creating intuitive and user-friendly
+            applications. Either way, I
             constantly strive to build solutions that are not only robust and
             scalable but also visually appealing and user-centric.
           </p>
