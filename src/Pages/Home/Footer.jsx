@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/_jtsukiz/?next=https%3A%2F%2Fwww.instagram.com%2F"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

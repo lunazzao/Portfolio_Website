@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import emailjs from "@emailjs/browser";
 
-const EmailForm = () => {
+const ContactMe = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
@@ -40,7 +40,7 @@ const EmailForm = () => {
 
   return (
     
-    <section id="Contact" className="contact--section">
+    <section id="ContactMe" className="contact--section">
       <div>
         <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
@@ -96,4 +96,4 @@ const EmailForm = () => {
   );
 };
 
-export default EmailForm;
+export default ContactMe;

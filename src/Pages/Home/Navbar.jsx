@@ -112,7 +112,7 @@ function Navbar() {
         smooth={true}
         offset={-70}
         duration={500}
-        to="Contact"
+        to="ContactMe"
         className="btn btn-outline-primary"
       >
         Contact Me

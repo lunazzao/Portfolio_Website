@@ -273,10 +273,9 @@ textarea {
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
-  flex: 1 0 0;
   border-radius: 10.6px;
   background: var(--bg-shade);
-  min-height: 250px;
+  min-height: 350px;
 }
 .skills--section--card:hover {
   border-bottom: 4px solid var(--primary);
@@ -297,9 +296,8 @@ textarea {
 .skills--section--card--content {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 32px;
-  align-self: stretch;
+  gap: 20px;
+  flex: 1; 
 }
 .skills--section--title {
   color: var(--heading-color);

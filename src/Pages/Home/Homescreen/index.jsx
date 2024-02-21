@@ -1,5 +1,5 @@
 import AboutMe from "../AboutMe";
-import EmailForm from "../EmailForm";
+import ContactMe from "../ContactMe";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
@@ -12,7 +12,7 @@ export default function Home() {
       <MySkills />
       <AboutMe />
       <MyPortfolio />
-      <EmailForm className="emailForm"/>
+      <ContactMe/>
       <Footer />
     </>
   );

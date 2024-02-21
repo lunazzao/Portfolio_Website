@@ -4,7 +4,7 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "I am proficient in HTML/CSS and JavaScript, and have experience in using Ract.js for front end."
+      "description": "I am proficient in HTML/CSS and JavaScript, and have experience in using React.js for front end."
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Communicaton",
-      "description": "My proactive approach in clarifying requirements and seeking feedback enhances team coordination & project success, making me versatile in any software development team."
+      "description": "My proactive approach in clarifying requirements and seeking feedback enhances coordination and project success."
     }
   ],
   "portfolio": [
