@@ -237,7 +237,10 @@ textarea {
   line-height: 36px;
 }
 .hero--section--img {
+  position: 'relative';
   display: flex;
+  justify-content: 'flex-end';
+  align-items: 'flex-end';
 }
 .hero--section--img > img {
   width: 100%;
@@ -563,6 +566,12 @@ input[type="checkbox"] {
   gap: 16px;
   flex-shrink: 0;
   text-decoration: none;
+}
+.social-icons-container {
+  display: flex;
+  justify-content: left; /* Center the icons container if not already */
+  gap: 10px; /* Adjust the gap between icons as needed */
+  margin-top: 20px; /* Add some space above the icons */
 }
 .divider {
   margin: 106px 0 42.67px;
